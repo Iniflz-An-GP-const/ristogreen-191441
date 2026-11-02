@@ -1,0 +1,6 @@
+name=Ristogreen
+bundle=d7man.ristogreen.digital
+organization=D7MAN DIGITAL LTD.
+alias=key
+pwd=wpsYU9XLBgWarhX37g9U
+key-pwd=wpsYU9XLBgWarhX37g9U
