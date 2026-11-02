@@ -1,0 +1,42 @@
+AssetBasedConstructor
+donor: PuzzleAppDonor (app.puzzle.donor)
+project: Ristogreen (d7man.ristogreen.digital)
+prefix: DIRIL
+seed: 865910303677967846
+app/src/main/java/app/puzzle/donor/ui/composable/app_root/background/decor -> v_confetti
+app/src/main/java/app/puzzle/donor/ui/composable/app_root/background/motion -> v_static
+app/src/main/java/app/puzzle/donor/ui/composable/app_root/background/points -> v_scatter
+app/src/main/java/app/puzzle/donor/ui/composable/app_root/topbar -> v_primary
+app/src/main/java/app/puzzle/donor/ui/composable/screen/about/card -> v_centered
+app/src/main/java/app/puzzle/donor/ui/composable/screen/about/rules/header -> v_leading_icon
+app/src/main/java/app/puzzle/donor/ui/composable/screen/about/rules/list -> v_bullet
+app/src/main/java/app/puzzle/donor/ui/composable/screen/game/hint -> v_card
+app/src/main/java/app/puzzle/donor/ui/composable/screen/game/layout -> v_timer_below
+app/src/main/java/app/puzzle/donor/ui/composable/screen/game/result/actions -> v_text
+app/src/main/java/app/puzzle/donor/ui/composable/screen/game/result/appear -> v_rise
+app/src/main/java/app/puzzle/donor/ui/composable/screen/game/result/content -> v_sentence
+app/src/main/java/app/puzzle/donor/ui/composable/screen/game/result/shell -> v_picture_top
+app/src/main/java/app/puzzle/donor/ui/composable/screen/game/swap -> v_hop
+app/src/main/java/app/puzzle/donor/ui/composable/screen/game_records/card -> v_rank_badge
+app/src/main/java/app/puzzle/donor/ui/composable/screen/game_records/filter -> v_joined
+app/src/main/java/app/puzzle/donor/ui/composable/screen/game_records/filter/chip -> v_text_only
+app/src/main/java/app/puzzle/donor/ui/composable/screen/main_menu/content/buttons/secondary -> v_row
+app/src/main/java/app/puzzle/donor/ui/composable/screen/main_menu/content/header -> v_tagline
+app/src/main/java/app/puzzle/donor/ui/composable/screen/puzzle_setup/indicator -> v_bar
+app/src/main/java/app/puzzle/donor/ui/composable/screen/puzzle_setup/layout -> v_classic
+app/src/main/java/app/puzzle/donor/ui/composable/screen/puzzle_setup/level_selector -> v_glyph_row
+app/src/main/java/app/puzzle/donor/ui/composable/screen/puzzle_setup/overlay -> v_gaps
+app/src/main/java/app/puzzle/donor/ui/composable/screen/puzzle_setup/pager -> v_slide_over
+app/src/main/java/app/puzzle/donor/ui/composable/screen/puzzle_setup/picker -> v_grid
+app/src/main/java/app/puzzle/donor/ui/composable/screen/splash/cover -> v_reveal
+app/src/main/java/app/puzzle/donor/ui/composable/screen/splash/entrance -> v_grow
+app/src/main/java/app/puzzle/donor/ui/composable/screen/splash/lockup -> v_stacked_logo
+app/src/main/java/app/puzzle/donor/ui/composable/shared/button/content -> v_text_then_icon
+app/src/main/java/app/puzzle/donor/ui/composable/shared/button/shell -> v_tinted
+app/src/main/java/app/puzzle/donor/ui/composable/shared/modifier/press -> v_sink
+app/src/main/java/app/puzzle/donor/ui/composable/shared/pulse -> v_nudge
+app/src/main/java/app/puzzle/donor/ui/composable/shared/pulse/timing -> v_calm
+app/src/main/java/app/puzzle/donor/ui/theme -> v_citrus
+app/src/main/java/app/puzzle/donor/ui/theme/dimens -> v_balanced
+app/src/main/java/app/puzzle/donor/ui/theme/motion -> v_calm
+app/src/main/java/app/puzzle/donor/ui/theme/typography -> v_font_minimal
