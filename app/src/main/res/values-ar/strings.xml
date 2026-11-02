@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="diril_app_logo_description">شعار التطبيق</string>
+    <string name="back_icon_description">خلف</string>
+    <string name="dialog_action_confirm">نعم</string>
+    <string name="dialog_action_cancel">إلغاء</string>
+    <string name="diril_main_menu_tagline">جمّع الحياة البرية</string>
+    <string name="main_menu_play">العب</string>
+    <string name="main_menu_game_records">السجلات</string>
+    <string name="main_menu_about">عن</string>
+    <string name="main_menu_exit">خروج</string>
+    <string name="puzzle_setup_title">اختر الحياة البرية</string>
+    <string name="puzzle_setup_start">ابدأ</string>
+    <string name="puzzle_setup_best_time">أفضل وقت: \u200E%1$s\u200E</string>
+    <string name="puzzle_setup_no_record">لا يوجد سجل حتى الآن</string>
+    <string name="puzzle_position_description">لغز \u200E%1$d\u200E من \u200E%2$d\u200E</string>
+    <string name="puzzle_counter_total">\u200E/ %1$d\u200E</string>
+    <string name="puzzle_picker_title">معرض الحياة البرية</string>
+    <string name="puzzle_picker_description">تصفح جميع الحياة البرية</string>
+    <string name="level_previous_description">أسهل</string>
+    <string name="level_next_description">أصعب</string>
+    <string name="easy_puzzle_level_title">سهل</string>
+    <string name="medium_puzzle_level_title">متوسط</string>
+    <string name="hard_puzzle_level_title">صعب</string>
+    <string name="expert_puzzle_level_title">خبير</string>
+    <string name="easy_puzzle_level_grid">\u200E3x3\u200E</string>
+    <string name="medium_puzzle_level_grid">\u200E4x4\u200E</string>
+    <string name="hard_puzzle_level_grid">\u200E5x5\u200E</string>
+    <string name="expert_puzzle_level_grid">\u200E6x6\u200E</string>
+    <string name="game_hint_description">إظهار التلميح</string>
+    <string name="game_preview_description">معاينة اللغز</string>
+    <string name="game_exit_title">الخروج من اللغز؟</string>
+    <string name="game_exit_message">سيتم فقدان التقدم الذي أحرزته في هذا اللغز.</string>
+    <string name="game_solved_title">تم الحل!</string>
+    <string name="game_solved_message">لقد قمت بتجميع اللغز بأكمله معًا في \u200E%1$s\u200E.</string>
+    <string name="game_solved_new_record">رقم قياسي جديد!</string>
+    <string name="game_solved_previous_best">الأفضل السابق: \u200E%1$s\u200E</string>
+    <string name="game_solved_best">أفضل وقت: \u200E%1$s\u200E</string>
+    <string name="game_solved_label_time">وقت</string>
+    <string name="game_solved_label_best">أفضل وقت</string>
+    <string name="game_solved_label_previous_best">السابق أفضل</string>
+    <string name="game_solved_label_puzzle">لغز</string>
+    <string name="game_solved_label_level">مستوى</string>
+    <string name="game_solved_picture_description">صورة الحياة البرية المستعادة</string>
+    <string name="game_solved_play_again">العب مرة أخرى</string>
+    <string name="game_solved_main_menu">القائمة الرئيسية</string>
+    <string name="game_records_title">سجلات اللعبة</string>
+    <string name="game_records_empty">لا توجد سجلات لهذا المستوى حتى الآن</string>
+    <string name="game_records_sort_time">وقت</string>
+    <string name="game_records_sort_date">تاريخ</string>
+    <string name="game_records_sort_puzzle">لغز</string>
+    <string name="game_record_card_score_format">%1$s · \u200E%2$s\u200E</string>
+    <string name="game_record_card_rank_format">\u200E#%1$d\u200E</string>
+    <string name="game_record_card_puzzle_label">لغز</string>
+    <string name="game_record_card_time_label">وقت</string>
+    <string name="game_record_card_date_label">تاريخ</string>
+    <string name="about_title">عن</string>
+    <string name="about_rules_title">كيفية اللعب</string>
+    <string name="about_version_format">الإصدار \u200E%1$s\u200E</string>
+    <string name="about_developer_label">المطور</string>
+    <string name="about_contact_label">التواصل</string>
+    <string-array name="about_rules">
+        <item>اختر صورة للحياة البرية: قم بالتمرير عبر الألغاز أو افتح قائمة بها جميعًا.</item>
+        <item>اختر مستوى الصعوبة - كلما كان المستوى أصعب، كلما زاد عدد القطع التي يتم قطعها في الصورة.</item>
+        <item>يتم خلط القطع. اضغط على قطعة واحدة، ثم أخرى، لتبديلها.</item>
+        <item>ضع كل قطعة في مكانها لتعيد الصورة مرة أخرى. عالق؟ المصباح الكهربائي يظهر الصورة كاملة.</item>
+        <item>يُحفظ وقتك بعد كل لغز — حاول تحطيم أفضل وقت لك.</item>
+    </string-array>
+</resources>

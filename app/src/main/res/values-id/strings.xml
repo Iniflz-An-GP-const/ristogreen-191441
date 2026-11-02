@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="diril_app_logo_description">Logo aplikasi</string>
+    <string name="back_icon_description">Kembali</string>
+    <string name="dialog_action_confirm">Ya</string>
+    <string name="dialog_action_cancel">Membatalkan</string>
+    <string name="diril_main_menu_tagline">Satukan satwa liar</string>
+    <string name="main_menu_play">Bermain</string>
+    <string name="main_menu_game_records">Catatan</string>
+    <string name="main_menu_about">Tentang</string>
+    <string name="main_menu_exit">KELUAR</string>
+    <string name="puzzle_setup_title">Pilih satwa liar</string>
+    <string name="puzzle_setup_start">Awal</string>
+    <string name="puzzle_setup_best_time">Waktu terbaik: %1$s</string>
+    <string name="puzzle_setup_no_record">Belum ada catatan</string>
+    <string name="puzzle_position_description">Teka-teki %1$d dari %2$d</string>
+    <string name="puzzle_counter_total">/ %1$d</string>
+    <string name="puzzle_picker_title">Galeri satwa liar</string>
+    <string name="puzzle_picker_description">Jelajahi semua satwa liar</string>
+    <string name="level_previous_description">Lebih mudah</string>
+    <string name="level_next_description">Lebih sulit</string>
+    <string name="easy_puzzle_level_title">Mudah</string>
+    <string name="medium_puzzle_level_title">Sedang</string>
+    <string name="hard_puzzle_level_title">Keras</string>
+    <string name="expert_puzzle_level_title">Pakar</string>
+    <string name="easy_puzzle_level_grid">3x3</string>
+    <string name="medium_puzzle_level_grid">4x4</string>
+    <string name="hard_puzzle_level_grid">5x5</string>
+    <string name="expert_puzzle_level_grid">6x6</string>
+    <string name="game_hint_description">Tunjukkan petunjuk</string>
+    <string name="game_preview_description">Pratinjau teka-teki</string>
+    <string name="game_exit_title">Keluar dari teka-teki?</string>
+    <string name="game_exit_message">Kemajuan Anda dalam teka-teki ini akan hilang.</string>
+    <string name="game_solved_title">Terselesaikan!</string>
+    <string name="game_solved_message">Anda menyatukan seluruh teka-teki di %1$s.</string>
+    <string name="game_solved_new_record">Rekor baru!</string>
+    <string name="game_solved_previous_best">Terbaik sebelumnya: %1$s</string>
+    <string name="game_solved_best">Waktu terbaik: %1$s</string>
+    <string name="game_solved_label_time">Waktu</string>
+    <string name="game_solved_label_best">Waktu terbaik</string>
+    <string name="game_solved_label_previous_best">Terbaik sebelumnya</string>
+    <string name="game_solved_label_puzzle">Membingungkan</string>
+    <string name="game_solved_label_level">Tingkat</string>
+    <string name="game_solved_picture_description">Gambar satwa liar yang dipulihkan</string>
+    <string name="game_solved_play_again">Mainkan lagi</string>
+    <string name="game_solved_main_menu">Menu utama</string>
+    <string name="game_records_title">Catatan permainan</string>
+    <string name="game_records_empty">Belum ada rekor untuk level ini</string>
+    <string name="game_records_sort_time">Waktu</string>
+    <string name="game_records_sort_date">Tanggal</string>
+    <string name="game_records_sort_puzzle">Membingungkan</string>
+    <string name="game_record_card_score_format">%1$s · %2$s</string>
+    <string name="game_record_card_rank_format">#%1$d</string>
+    <string name="game_record_card_puzzle_label">Membingungkan</string>
+    <string name="game_record_card_time_label">Waktu</string>
+    <string name="game_record_card_date_label">Tanggal</string>
+    <string name="about_title">Tentang</string>
+    <string name="about_rules_title">Cara Bermain</string>
+    <string name="about_version_format">Versi %1$s</string>
+    <string name="about_developer_label">Pengembang</string>
+    <string name="about_contact_label">Kontak</string>
+    <string-array name="about_rules">
+        <item>Pilih gambar satwa liar: geser teka-teki atau buka daftar semuanya.</item>
+        <item>Pilih tingkat kesulitan — semakin sulit levelnya, semakin banyak potongan gambar yang dipotong.</item>
+        <item>Potongan-potongannya dikocok. Ketuk satu bagian, lalu bagian lainnya, untuk menukarnya.</item>
+        <item>Letakkan setiap bagian pada tempatnya untuk mengembalikan gambar itu. Terjebak? Bola lampu menunjukkan keseluruhan gambar.</item>
+        <item>Waktu Anda disimpan setelah setiap teka-teki — coba kalahkan waktu terbaik Anda.</item>
+    </string-array>
+</resources>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="diril_app_logo_description">Logotipo do aplicativo</string>
+    <string name="back_icon_description">Voltar</string>
+    <string name="dialog_action_confirm">Sim</string>
+    <string name="dialog_action_cancel">Cancelar</string>
+    <string name="diril_main_menu_tagline">Junte a vida selvagem</string>
+    <string name="main_menu_play">Jogar</string>
+    <string name="main_menu_game_records">Registros</string>
+    <string name="main_menu_about">Sobre</string>
+    <string name="main_menu_exit">Saída</string>
+    <string name="puzzle_setup_title">Escolha a vida selvagem</string>
+    <string name="puzzle_setup_start">Começar</string>
+    <string name="puzzle_setup_best_time">Melhor horário: %1$s</string>
+    <string name="puzzle_setup_no_record">Ainda não há registro</string>
+    <string name="puzzle_position_description">Quebra-cabeça %1$d de %2$d</string>
+    <string name="puzzle_counter_total">/%1$d</string>
+    <string name="puzzle_picker_title">Galeria de vida selvagem</string>
+    <string name="puzzle_picker_description">Navegue por toda a vida selvagem</string>
+    <string name="level_previous_description">Mais fácil</string>
+    <string name="level_next_description">Mais difícil</string>
+    <string name="easy_puzzle_level_title">Fácil</string>
+    <string name="medium_puzzle_level_title">Médio</string>
+    <string name="hard_puzzle_level_title">Duro</string>
+    <string name="expert_puzzle_level_title">Especialista</string>
+    <string name="easy_puzzle_level_grid">3x3</string>
+    <string name="medium_puzzle_level_grid">4x4</string>
+    <string name="hard_puzzle_level_grid">5x5</string>
+    <string name="expert_puzzle_level_grid">6x6</string>
+    <string name="game_hint_description">Mostrar dica</string>
+    <string name="game_preview_description">Pré-visualização do quebra-cabeça</string>
+    <string name="game_exit_title">Sair do quebra-cabeça?</string>
+    <string name="game_exit_message">Seu progresso neste quebra-cabeça será perdido.</string>
+    <string name="game_solved_title">Resolvido!</string>
+    <string name="game_solved_message">Você monta todo o quebra-cabeça em %1$s.</string>
+    <string name="game_solved_new_record">Novo recorde!</string>
+    <string name="game_solved_previous_best">Melhor anterior: %1$s</string>
+    <string name="game_solved_best">Melhor horário: %1$s</string>
+    <string name="game_solved_label_time">Tempo</string>
+    <string name="game_solved_label_best">Melhor horário</string>
+    <string name="game_solved_label_previous_best">Melhor anterior</string>
+    <string name="game_solved_label_puzzle">Quebra-cabeça</string>
+    <string name="game_solved_label_level">Nível</string>
+    <string name="game_solved_picture_description">A imagem restaurada da vida selvagem</string>
+    <string name="game_solved_play_again">Jogue novamente</string>
+    <string name="game_solved_main_menu">Menu principal</string>
+    <string name="game_records_title">Recordes de jogo</string>
+    <string name="game_records_empty">Ainda não há registros para este nível</string>
+    <string name="game_records_sort_time">Tempo</string>
+    <string name="game_records_sort_date">Data</string>
+    <string name="game_records_sort_puzzle">Quebra-cabeça</string>
+    <string name="game_record_card_score_format">%1$s · %2$s</string>
+    <string name="game_record_card_rank_format">#%1$d</string>
+    <string name="game_record_card_puzzle_label">Quebra-cabeça</string>
+    <string name="game_record_card_time_label">Tempo</string>
+    <string name="game_record_card_date_label">Data</string>
+    <string name="about_title">Sobre</string>
+    <string name="about_rules_title">Como jogar</string>
+    <string name="about_version_format">Versão %1$s</string>
+    <string name="about_developer_label">Desenvolvedor</string>
+    <string name="about_contact_label">Contato</string>
+    <string-array name="about_rules">
+        <item>Escolha uma imagem da vida selvagem: percorra os quebra-cabeças ou abra a lista de todos eles.</item>
+        <item>Escolha uma dificuldade — quanto mais difícil o nível, mais pedaços a imagem será cortada.</item>
+        <item>As peças são embaralhadas. Toque em uma peça e depois em outra para trocá-las.</item>
+        <item>Coloque cada peça em seu lugar para trazer a imagem de volta. Preso? A lâmpada mostra toda a imagem.</item>
+        <item>Seu tempo é salvo após cada quebra-cabeça — tente superar seu melhor tempo.</item>
+    </string-array>
+</resources>

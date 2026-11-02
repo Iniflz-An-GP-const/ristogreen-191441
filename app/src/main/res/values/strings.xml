@@ -10,14 +10,14 @@
     <string name="dialog_action_cancel">Cancel</string>
 
     <!-- Main menu -->
-    <string name="diril_main_menu_tagline">Piece it together</string>
+    <string name="diril_main_menu_tagline">Piece wildlife together</string>
     <string name="main_menu_play">Play</string>
     <string name="main_menu_game_records">Records</string>
     <string name="main_menu_about">About</string>
     <string name="main_menu_exit">Exit</string>
 
     <!-- Puzzle setup: choose a puzzle and a difficulty -->
-    <string name="puzzle_setup_title">Choose a puzzle</string>
+    <string name="puzzle_setup_title">Choose wildlife</string>
     <string name="puzzle_setup_start">Start</string>
     <string name="puzzle_setup_best_time">Best time: %1$s</string>
     <string name="puzzle_setup_no_record">No record yet</string>
@@ -27,8 +27,8 @@
     <string name="puzzle_counter_total">/ %1$d</string>
 
     <!-- Puzzle setup: list of all puzzles -->
-    <string name="puzzle_picker_title">All puzzles</string>
-    <string name="puzzle_picker_description">Show all puzzles</string>
+    <string name="puzzle_picker_title">Wildlife gallery</string>
+    <string name="puzzle_picker_description">Browse all wildlife</string>
 
     <!-- Puzzle setup: level stepper -->
     <string name="level_previous_description">Easier</string>
@@ -60,7 +60,7 @@
     <string name="game_solved_label_puzzle">Puzzle</string>
     <string name="game_solved_label_level">Level</string>
     <string name="game_solved_no_value" translatable="false">—</string>
-    <string name="game_solved_picture_description">The finished picture</string>
+    <string name="game_solved_picture_description">The restored wildlife picture</string>
     <string name="game_solved_play_again">Play again</string>
     <string name="game_solved_main_menu">Main menu</string>
 
@@ -84,7 +84,7 @@
     <string name="about_developer_label">Developer</string>
     <string name="about_contact_label">Contact</string>
     <string-array name="about_rules">
-        <item>Pick a picture: swipe through the puzzles or open the list of all of them.</item>
+        <item>Pick a wildlife picture: swipe through the puzzles or open the list of all of them.</item>
         <item>Choose a difficulty — the harder the level, the more pieces the picture is cut into.</item>
         <item>The pieces are shuffled. Tap one piece, then another, to swap them.</item>
         <item>Put every piece in its place to bring the picture back. Stuck? The light bulb shows the whole picture.</item>

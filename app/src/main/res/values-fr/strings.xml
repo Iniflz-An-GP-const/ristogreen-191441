@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="diril_app_logo_description">Logo de l\'application</string>
+    <string name="back_icon_description">Dos</string>
+    <string name="dialog_action_confirm">Oui</string>
+    <string name="dialog_action_cancel">Annuler</string>
+    <string name="diril_main_menu_tagline">Rassemblez la faune sauvage</string>
+    <string name="main_menu_play">Jouer</string>
+    <string name="main_menu_game_records">Enregistrements</string>
+    <string name="main_menu_about">À propos</string>
+    <string name="main_menu_exit">Sortie</string>
+    <string name="puzzle_setup_title">Choisissez la faune</string>
+    <string name="puzzle_setup_start">Commencer</string>
+    <string name="puzzle_setup_best_time">Meilleur temps : %1$s</string>
+    <string name="puzzle_setup_no_record">Pas encore d\'enregistrement</string>
+    <string name="puzzle_position_description">Casse-tête %1$d de %2$d</string>
+    <string name="puzzle_counter_total">/ %1$d</string>
+    <string name="puzzle_picker_title">Galerie de la faune</string>
+    <string name="puzzle_picker_description">Parcourez toute la faune</string>
+    <string name="level_previous_description">Plus facile</string>
+    <string name="level_next_description">Plus fort</string>
+    <string name="easy_puzzle_level_title">Facile</string>
+    <string name="medium_puzzle_level_title">Moyen</string>
+    <string name="hard_puzzle_level_title">Dur</string>
+    <string name="expert_puzzle_level_title">Expert</string>
+    <string name="easy_puzzle_level_grid">3x3</string>
+    <string name="medium_puzzle_level_grid">4x4</string>
+    <string name="hard_puzzle_level_grid">5x5</string>
+    <string name="expert_puzzle_level_grid">6x6</string>
+    <string name="game_hint_description">Afficher l\'indice</string>
+    <string name="game_preview_description">Aperçu du puzzle</string>
+    <string name="game_exit_title">Sortir du casse-tête ?</string>
+    <string name="game_exit_message">Votre progression sur ce puzzle sera perdue.</string>
+    <string name="game_solved_title">Résolu !</string>
+    <string name="game_solved_message">Vous assemblez tout le puzzle dans %1$s.</string>
+    <string name="game_solved_new_record">Nouveau disque !</string>
+    <string name="game_solved_previous_best">Meilleur précédent : %1$s</string>
+    <string name="game_solved_best">Meilleur temps : %1$s</string>
+    <string name="game_solved_label_time">Temps</string>
+    <string name="game_solved_label_best">Meilleur moment</string>
+    <string name="game_solved_label_previous_best">Meilleur précédent</string>
+    <string name="game_solved_label_puzzle">Puzzle</string>
+    <string name="game_solved_label_level">Niveau</string>
+    <string name="game_solved_picture_description">Le tableau animalier restauré</string>
+    <string name="game_solved_play_again">Rejouer</string>
+    <string name="game_solved_main_menu">Menu principal</string>
+    <string name="game_records_title">Records de jeu</string>
+    <string name="game_records_empty">Aucun enregistrement pour ce niveau pour l\'instant</string>
+    <string name="game_records_sort_time">Temps</string>
+    <string name="game_records_sort_date">Date</string>
+    <string name="game_records_sort_puzzle">Puzzle</string>
+    <string name="game_record_card_score_format">%1$s · %2$s</string>
+    <string name="game_record_card_rank_format">#%1$d</string>
+    <string name="game_record_card_puzzle_label">Puzzle</string>
+    <string name="game_record_card_time_label">Temps</string>
+    <string name="game_record_card_date_label">Date</string>
+    <string name="about_title">À propos</string>
+    <string name="about_rules_title">Comment jouer</string>
+    <string name="about_version_format">Version %1$s</string>
+    <string name="about_developer_label">Promoteur</string>
+    <string name="about_contact_label">Contact</string>
+    <string-array name="about_rules">
+        <item>Choisissez une image animalière : parcourez les puzzles ou ouvrez la liste de tous.</item>
+        <item>Choisissez une difficulté : plus le niveau est difficile, plus l\'image est découpée en morceaux.</item>
+        <item>Les pièces sont mélangées. Appuyez sur une pièce, puis sur une autre, pour les échanger.</item>
+        <item>Remettez chaque pièce à sa place pour ramener l\'image. Bloqué? L\'ampoule montre l\'ensemble de l\'image.</item>
+        <item>Votre temps est enregistré après chaque puzzle : essayez de battre votre record.</item>
+    </string-array>
+</resources>

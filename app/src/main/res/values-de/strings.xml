@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="diril_app_logo_description">App-Logo</string>
+    <string name="back_icon_description">Zurück</string>
+    <string name="dialog_action_confirm">Ja</string>
+    <string name="dialog_action_cancel">Stornieren</string>
+    <string name="diril_main_menu_tagline">Setze Wildtiere zusammen</string>
+    <string name="main_menu_play">Spielen</string>
+    <string name="main_menu_game_records">Aufzeichnungen</string>
+    <string name="main_menu_about">Um</string>
+    <string name="main_menu_exit">Ausfahrt</string>
+    <string name="puzzle_setup_title">Wählen Sie Wildtiere</string>
+    <string name="puzzle_setup_start">Start</string>
+    <string name="puzzle_setup_best_time">Beste Zeit: %1$s</string>
+    <string name="puzzle_setup_no_record">Noch keine Aufzeichnung</string>
+    <string name="puzzle_position_description">Puzzle %1$d von %2$d</string>
+    <string name="puzzle_counter_total">/ %1$d</string>
+    <string name="puzzle_picker_title">Wildtiergalerie</string>
+    <string name="puzzle_picker_description">Durchsuchen Sie alle Wildtiere</string>
+    <string name="level_previous_description">Einfacher</string>
+    <string name="level_next_description">Schwerer</string>
+    <string name="easy_puzzle_level_title">Einfach</string>
+    <string name="medium_puzzle_level_title">Medium</string>
+    <string name="hard_puzzle_level_title">Hart</string>
+    <string name="expert_puzzle_level_title">Experte</string>
+    <string name="easy_puzzle_level_grid">3x3</string>
+    <string name="medium_puzzle_level_grid">4x4</string>
+    <string name="hard_puzzle_level_grid">5x5</string>
+    <string name="expert_puzzle_level_grid">6x6</string>
+    <string name="game_hint_description">Hinweis anzeigen</string>
+    <string name="game_preview_description">Puzzle-Vorschau</string>
+    <string name="game_exit_title">Rätsel beenden?</string>
+    <string name="game_exit_message">Ihr Fortschritt bei diesem Rätsel geht verloren.</string>
+    <string name="game_solved_title">Gelöst!</string>
+    <string name="game_solved_message">Sie haben das ganze Puzzle in %1$s zusammengesetzt.</string>
+    <string name="game_solved_new_record">Neuer Rekord!</string>
+    <string name="game_solved_previous_best">Bisher bestes Ergebnis: %1$s</string>
+    <string name="game_solved_best">Beste Zeit: %1$s</string>
+    <string name="game_solved_label_time">Zeit</string>
+    <string name="game_solved_label_best">Beste Zeit</string>
+    <string name="game_solved_label_previous_best">Vorheriges Bestes</string>
+    <string name="game_solved_label_puzzle">Puzzle</string>
+    <string name="game_solved_label_level">Ebene</string>
+    <string name="game_solved_picture_description">Das restaurierte Tierbild</string>
+    <string name="game_solved_play_again">Spielen Sie noch einmal</string>
+    <string name="game_solved_main_menu">Hauptmenü</string>
+    <string name="game_records_title">Spielaufzeichnungen</string>
+    <string name="game_records_empty">Für dieses Level liegen noch keine Datensätze vor</string>
+    <string name="game_records_sort_time">Zeit</string>
+    <string name="game_records_sort_date">Datum</string>
+    <string name="game_records_sort_puzzle">Puzzle</string>
+    <string name="game_record_card_score_format">%1$s · %2$s</string>
+    <string name="game_record_card_rank_format">#%1$d</string>
+    <string name="game_record_card_puzzle_label">Puzzle</string>
+    <string name="game_record_card_time_label">Zeit</string>
+    <string name="game_record_card_date_label">Datum</string>
+    <string name="about_title">Um</string>
+    <string name="about_rules_title">Wie man spielt</string>
+    <string name="about_version_format">Version %1$s</string>
+    <string name="about_developer_label">Entwickler</string>
+    <string name="about_contact_label">Kontakt</string>
+    <string-array name="about_rules">
+        <item>Wählen Sie ein Tierbild aus: Wischen Sie durch die Rätsel oder öffnen Sie die Liste aller Bilder.</item>
+        <item>Wählen Sie einen Schwierigkeitsgrad – je schwieriger das Level, desto mehr Teile wird das Bild zerschnitten.</item>
+        <item>Die Stücke werden gemischt. Tippen Sie auf ein Teil und dann auf ein anderes, um sie auszutauschen.</item>
+        <item>Setze jedes Teil an seinen Platz, um das Bild wiederherzustellen. Nicht weiter? Die Glühbirne zeigt das ganze Bild.</item>
+        <item>Deine Zeit wird nach jedem Puzzle gespeichert – versuche, deine Bestzeit zu schlagen.</item>
+    </string-array>
+</resources>
